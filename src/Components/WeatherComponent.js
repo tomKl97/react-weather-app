@@ -2,7 +2,7 @@ import React from "react";
 import Heading from "./heading";
 import Forecast from "./forecast";
 
-const api_key = "d5d298080203548e0de71069dbaf9d7d";
+const api_key = "API_key";
 
 class WeatherComponent extends React.Component{
 
