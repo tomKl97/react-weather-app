@@ -10,6 +10,6 @@ Pod zemljevidom je prikaz vremena za današnji dan z nekaj podatki(tempratura, v
 
 
 
-//Zagon lastnega serverja za shranjevnaje lokacij v file db.json
+//Zagon  serverja za shranjevnaje lokacij v file db.json
 //1.--> npm install -g json-server
 //2.--> npx json-server --watch db.json --port 3333
