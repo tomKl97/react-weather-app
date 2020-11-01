@@ -1,0 +1,36 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "address": "test"
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 2
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 3
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 4
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 5
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 6
+    },
+    {
+      "address": "Trnovče 3, 1225 Lukovica, Slovenija",
+      "id": 7
+    },
+    {
+      "address": "SDSM College Rd, Boisar, Palghar, Maharashtra 401404, Indija",
+      "id": 8
+    }
+  ]
+}
